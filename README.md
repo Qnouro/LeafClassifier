@@ -12,7 +12,8 @@ The images are under the "Smithsonian Licenses" : http://clearedleavesdb.org/?q=
 
 ## todo list
 
--Spotted 6 doubled columns in the df due to spaces in the end
--Deep copy for df
+-Spotted 6 doubled columns in the df due to spaces in the end : DONE
+-Deep copy for df : DONE
 -Confusion Matrix
 -Code factorisation
+-Leaf segmentation : DONE
