@@ -22,3 +22,5 @@ The images are under the "Smithsonian Licenses" : http://clearedleavesdb.org/?q=
 
 -Leaf segmentation : DONE
 
+-Cuda implementation
+
