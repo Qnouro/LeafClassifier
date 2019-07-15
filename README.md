@@ -16,11 +16,13 @@ The images are under the "Smithsonian Licenses" : http://clearedleavesdb.org/?q=
 
 -Deep copy for df : DONE
 
--Confusion Matrix
+-Confusion Matrix : DONE
 
--Code factorisation
+-Code factorisation : DONE
 
 -Leaf segmentation : DONE
 
--Cuda implementation
+-Cuda implementation : DONE
+
+The full code can be found in google colab: https://colab.research.google.com/drive/18Gsuc7jR1lN1m3hEEOLXLhSwAoRT5pcm#scrollTo=cn8KtXJVNO89
 
